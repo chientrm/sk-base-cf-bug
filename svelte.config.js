@@ -14,7 +14,6 @@ const config = {
 		adapter: adapter(),
 		paths: {
 			base: '/sk-base-cf-bug',
-			assets: 'https://sk-base-cf-bug.pages.dev/sk-base-cf-bug'
 		}
 	}
 };
