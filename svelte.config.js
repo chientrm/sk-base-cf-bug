@@ -13,7 +13,8 @@ const config = {
 		// See https://kit.svelte.dev/docs/adapters for more information about adapters.
 		adapter: adapter(),
 		paths: {
-			base: '/sk-base-cf-bug'
+			base: '/sk-base-cf-bug',
+			assets: 'https://sk-base-cf-bug.pages.dev/sk-base-cf-bug'
 		}
 	}
 };
